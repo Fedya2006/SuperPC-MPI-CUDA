@@ -1,3 +1,0 @@
-set cuda api_failures stop
-set confirm off
-r 128 1
